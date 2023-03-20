@@ -11,12 +11,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0.0",
+        "php": "^8.0",
         "grpc/grpc": "dev-master",
         "google/protobuf": "dev-master",
         "protobuf-php/protobuf": "0.1.x-dev",
         "alchemy/binary-driver": "^5.0",
-        "illuminate/support": "^7.0|^8.0",
         "symfony/process": "^5.0",
         "simplito/elliptic-php": "^1.0"
     },
